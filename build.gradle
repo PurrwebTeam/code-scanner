@@ -59,7 +59,7 @@ android {
 }
 
 dependencies {
-    api 'com.google.zxing:core:3.3.3'
+    api 'com.google.zxing:core:3.5.1'
     api 'androidx.annotation:annotation:1.4.0'
 }
 
